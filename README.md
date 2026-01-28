@@ -62,4 +62,3 @@ For example, if a user consistently skips workouts due to fatigue, the system ad
 
 ---
 
-## 📁 Project Structure (Current / Planned)
