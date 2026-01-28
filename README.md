@@ -61,4 +61,12 @@ For example, if a user consistently skips workouts due to fatigue, the system ad
 - **Version Control:** Git & GitHub  
 
 ---
-
+## 📁 Project Structure (Current / Planned)
+HealthyCal/
+├── app.py
+├── static/
+│ ├── css/
+│ └── images/
+├── templates/
+├── README.md
+└── requirements.txt
